@@ -404,7 +404,6 @@ public class heuristic {
     }
 
     public static double addWithLowerBound(double[] olds,double[] d,double[] oldf,double[][] oldc,double[] superCost){
-        //lower bound: 只有循环的变了
         int n=olds.length+1;
         int m=d.length;
 
