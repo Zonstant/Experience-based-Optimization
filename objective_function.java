@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Main {
+public class objective_function {
 
     public static void createInput(int m,int n){
         //m for j, n for i
