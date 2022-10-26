@@ -160,7 +160,7 @@ public class Main {
                 ans+=y[i][j]*c[i][j]*h[i];
             }
         }
-        return ans;//319 张寒
+        return ans;
     }
 
 
